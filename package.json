@@ -1,0 +1,8 @@
+{
+  "name": "com.kilijanek.systemtray",
+  "version": "1.0.0",
+  "displayName": "System Tray Windows",
+  "description": "A Unity package for Windows System Tray functionality.",
+  "unity": "2020.3",
+  "dependencies": {}
+}
